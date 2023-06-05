@@ -1,2 +1,2 @@
-# subomiomoleye.github.io
+# Personal academic website
 In development
