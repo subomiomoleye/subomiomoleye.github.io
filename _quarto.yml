@@ -8,6 +8,9 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - href: lifestyle.qmd
+        text: lives
+
 
 format:
   html:
